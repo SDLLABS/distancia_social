@@ -35,7 +35,7 @@ SOCIAL_DISTANCING = 0.5
 SOCIAL_DISTANCING_MASS = 1000.0
 
 # Size of the population
-POPULATION = 100
+POPULATION = 79533
 
 class Person():
     ''' Class to hold a person status, position and velocity
